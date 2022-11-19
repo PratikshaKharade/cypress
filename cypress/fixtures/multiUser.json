@@ -1,0 +1,26 @@
+[
+    {
+    "firstName" : "pratiksha",
+    "lastName" : "kharade",
+    "email" : "patu@gmail.com",
+    "Comment" : "welcome to js !"
+},
+{
+    "firstName" : "monika",
+    "lastName" : "gosavi",
+    "email" : "mona@gmail.com",
+    "Comment" : "welcome to js !"
+},
+{
+    "firstName" : "shital",
+    "lastName" : "ghule",
+    "email" : "ghule@gmail.com",
+    "Comment" : "welcome to js !"
+},
+{
+    "firstName" : "rutuja",
+    "lastName" : "jadhav",
+    "email" : "rutu@gmail.com",
+    "Comment" : "welcome to js !"
+}
+]
